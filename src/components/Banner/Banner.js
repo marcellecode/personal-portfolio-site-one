@@ -49,9 +49,7 @@ export default function Banner() {
         <Row className="align-items-center">
           <Col xs={12} md={6} xl={7}>
             <span className="tagline">Welcome to my portfolio</span>
-            <h1>
-            {`Hi I'm MarcelleCode `} 
-            </h1>
+            <h1>{`Hi I'm MarcelleCode `}</h1>
             <div className="container-wrap">
               <span className="wrap">{text}</span>
             </div>
